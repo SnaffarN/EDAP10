@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="edap10-labs-master/lab1-alarmclock/src"/>
+	<classpathentry kind="src" path="edap10-labs-master/lab2-factory/src"/>
+	<classpathentry kind="src" path="edap10-labs-master/lab3-lift/src"/>
+	<classpathentry kind="src" path="edap10-labs-master/lab4-primefac/src"/>
+	<classpathentry kind="src" path="edap10-labs-master/lab5-washing/src"/>
+	<classpathentry kind="src" path="edap10-labs-master/lab6-chat/src"/>
+	<classpathentry kind="lib" path="edap10-labs-master/cs_edap10/edap10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
